@@ -1,5 +1,7 @@
 # Chocolate Sales Analysis Dashboard 🍫
 
+![Dashboard Preview](Images/Intro.png)
+
 ## Project Overview
 This project analyzes chocolate sales performance using SQL Server and Power BI.
 
@@ -83,6 +85,13 @@ The dashboard provides interactive insights into:
 ![Customer Analysis](Images/customer_product.png)
 
 ---
+
+## Business Questions
+-Which country generates the highest revenue?
+-Which products are most profitable?
+-How do customer segments behave?
+-Which stores perform best?
+-What are the monthly revenue trends?
 
 ## Created By
 Mohamed Hesham
