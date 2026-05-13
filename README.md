@@ -74,7 +74,7 @@ The dashboard provides interactive insights into:
 ## Dashboard Preview
 
 ### Intro
-![Intro](Images/intro.png)
+![Intro](Images/Intro.png)
 
 ### Executive Overview
 ![Executive Overview](Images/executive_overview.png)
