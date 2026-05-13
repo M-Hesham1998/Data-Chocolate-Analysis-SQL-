@@ -77,10 +77,10 @@ The dashboard provides interactive insights into:
 ![Intro](Images/intro.png)
 
 ### Executive Overview
-![Executive Overview](Images/executive overview.png)
+![Executive Overview](Images/executive_overview.png)
 
 ### Customer & Product Analysis
-![Customer Analysis](Images/customer & product.png)
+![Customer Analysis](Images/customer_product.png)
 
 ---
 
