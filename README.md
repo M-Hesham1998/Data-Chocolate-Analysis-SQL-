@@ -15,10 +15,14 @@ The dashboard provides interactive insights into:
 ---
 
 ## Tools Used
+
 - SQL Server
 - SQL Views
 - Window Functions
+- Common Table Expressions (CTEs)
 - Power BI
+- Figma
+- Mokkupp
 
 ---
 
