@@ -91,11 +91,11 @@ The dashboard provides interactive insights into:
 ---
 
 ## Business Questions
--Which country generates the highest revenue?
--Which products are most profitable?
--How do customer segments behave?
--Which stores perform best?
--What are the monthly revenue trends?
+- Which country generates the highest revenue?
+- Which products are most profitable?
+- How do customer segments behave?
+- Which stores perform best?
+- What are the monthly revenue trends?
 
 ## Created By
 Mohamed Hesham
